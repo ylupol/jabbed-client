@@ -21,6 +21,9 @@ public class ManagementSystem {
     public static final String USER_NAME = "nwlvl";
     public static final String USER_PASSWORD = "s7yw4vkT";
 
+    /**
+     * constructor
+     */
     private ManagementSystem() {
     }
 
