@@ -49,6 +49,10 @@ public class ManagementSystem {
         }
     }
 
+    /**
+     * Roster
+     * @return
+     */
     protected Roster getRoster() {
         return connection.getRoster();
     }
